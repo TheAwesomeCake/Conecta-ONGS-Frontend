@@ -24,27 +24,6 @@ O ConectaONGs é uma plataforma web que atua como um facilitador para ONGs, volu
 ### Web Frontend
  O lider da equipe irá dividir os membros
 
- ## sugestão inicial, outras poderão ser necessárias
- ```
-Telas do Projeto:
--Página de Início:
-  |--Uma página inicial que fornece uma visão geral do projeto e incentiva as pessoas a se envolverem.
--Página de Cadastro/Login:
-  |--Para que ONGs, voluntários e usuários se cadastrem e acessem suas contas.
--Página de Perfil da ONG:
-  |--Mostra informações detalhadas sobre cada ONG, incluindo missão, recursos necessários e solicitações ativas.
--Página de Mapa Interativo:
-  |--Exibe um mapa com as localizações das ONGs e recursos disponíveis.
--Página de Solicitação de Recursos:
-  |--Permite que pessoas necessitadas solicitem recursos específicos.
--Página de Avaliação e Comentários:
-  |--Onde os usuários podem avaliar e deixar comentários sobre as ONGs e voluntários.
--Painel de Administração:
-  |--Para que administradores gerenciem o sistema, aprovem solicitações e gerenciem contas de ONGs.
--Página de estastiticas:
-  |--Uma página que fornece graficamente quantidade ONGs e vagas de voluntários, recursos disponíveis.
- ```
-
 ### Padrão de projeto
 - Criar no padrão RESTFull (API)
 - *Criar json para simulação, sem dependência do backend
