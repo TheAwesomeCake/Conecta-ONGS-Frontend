@@ -20,10 +20,6 @@ O ConectaONGs é uma plataforma web que atua como um facilitador para ONGs, volu
 - Os usuários poderá avaliar as ONGs e os voluntários, promovendo a transparência e a confiabilidade.
 
 
-  
-### Web Frontend
- O lider da equipe irá dividir os membros
-
 ### Padrão de projeto
 - Criar no padrão RESTFull (API)
 - *Criar json para simulação, sem dependência do backend
